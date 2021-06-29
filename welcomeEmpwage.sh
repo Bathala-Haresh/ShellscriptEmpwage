@@ -1,13 +1,4 @@
-#INITIAL VALUE TO ASSING PRESENT
-isPresent=1
+#!/bin/bash -x
 
-#TO VARIABLE
-randomNumber=$((RANDOM%2))
+echo "-------------------------------------------- Welcome To Employee Wage Compution -------------------------------------------------------"
 
-#TO CHECK THE EMPLOYEE PRESENT AND ABSENT
-if [ $randomNumber -eq 	$isPresent ]
-then
-	echo "Employee Present"
-else
-	echo "Employee Absent"
-fi
