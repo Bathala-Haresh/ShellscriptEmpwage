@@ -1,4 +1,4 @@
 #!/bin/bash -x
 
-echo "----- Welcome Tomknjjj Wage Computionsss-------------------------------------------------------"
+echo "----- Welcome Tomknjjj Wage Computionsss"
 
